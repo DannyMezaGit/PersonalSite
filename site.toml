@@ -7,3 +7,18 @@ page = "https://www.notion.so/danielmeza/Mezagini-0ccb8d1947f14850be863d5f102777
 
 # aplique opcionalmente el modo oscuro de la noción, elimine la línea a continuación para usar el modo de luz predeterminado 
 theme = "dark"
+
+## Global Site Settings ##
+# this [site] table defines override settings for the whole site
+# later on we will see how to define settings for a single page
+[site]
+  ## Custom Meta Tags ##
+  # defined as an array of tables (double square brackets)
+  # each key in the table maps to an atttribute in the tag
+  # the following adds the tag <meta name="title" content="Loconotion Test Site"/>
+  [[site.meta]]
+  name = "title"
+  content = "Loconotion Test Site"
+  [[site.meta]]
+  name = "description"
+  content = "A static site generated from a Notion.so page using Loconotion"
