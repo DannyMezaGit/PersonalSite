@@ -3,7 +3,7 @@ name = "Mezagini"
 
 # la página notion.so desde la que se está analizando. Esta página se convertirá en el index.html 
 # del sitio generado, y loconotion analizará todas las subpáginas presentes en la página 
-page = "https://danielmeza.notion.site/Mezagini-0ccb8d1947f14850be863d5f1027776c"
+page = "https://danielmeza.notion.site/Setlist-Domingo-09-de-Enero-2022-da577ba06391407283cd076c85551476"
 
 # aplique opcionalmente el modo oscuro de la noción, elimine la línea a continuación para usar el modo de luz predeterminado 
 theme = "dark"
