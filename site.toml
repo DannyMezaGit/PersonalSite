@@ -1,4 +1,4 @@
- nombre de la carpeta en la que se generará el sitio 
+# nombre de la carpeta en la que se generará el sitio 
 name = " Mezagini "
 
 # la página notion.so desde la que se está analizando. Esta página se convertirá en el index.html 
